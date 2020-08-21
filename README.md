@@ -30,8 +30,8 @@ Install the dependencies:
 
 There's two required parameters:
 ```
--t:     Target users, "@jairbolsonaro" or for multiple users:
-        "@jailbolsnaro @opropriolavo".
+-t:     Target users, "@realDonaldTrump" or for multiple users:
+        "@realDonaldTrump @leozzils".
 -m:     Minutes, the bot will tweet every X minutes.
 ```
 
