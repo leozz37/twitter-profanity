@@ -37,4 +37,4 @@ There's two required parameters:
 
 ## Running
 
-`$ python src/profanity-bot.py -m 15 -t "@jairbolsonaro @opropriolavo"`
+`$ python src/profanity-bot.py -m 15 -t "@realDonaldTrump @leozzils"`
